@@ -1,0 +1,26 @@
+{
+  "images" : [
+    {
+      "filename" : "sharon-pittaway-KUZnfk-2DSQ-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "sharon-pittaway-KUZnfk-2DSQ-unsplash@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "sharon-pittaway-KUZnfk-2DSQ-unsplash@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

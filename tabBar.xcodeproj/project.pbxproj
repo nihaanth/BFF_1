@@ -7,19 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6B90DFD626832393009F90A0 /* home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B90DFD526832393009F90A0 /* home.swift */; };
+		6B3B8CAC268AFC9B00F5F2B3 /* home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B3B8CAB268AFC9B00F5F2B3 /* home.swift */; };
+		6B7F4FB926883DF6002F6018 /* vegitablesPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B7F4FB826883DF6002F6018 /* vegitablesPage.swift */; };
 		6BCB1B47268404780007467B /* FruitsPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BCB1B46268404780007467B /* FruitsPage.swift */; };
-		6BCD46132670E3F50050023F /* tabBarApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BCD46122670E3F50050023F /* tabBarApp.swift */; };
+		6BCD46132670E3F50050023F /* BuyFromFarmers1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BCD46122670E3F50050023F /* BuyFromFarmers1.swift */; };
 		6BCD46152670E3F50050023F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BCD46142670E3F50050023F /* ContentView.swift */; };
 		6BCD46172670E3F60050023F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6BCD46162670E3F60050023F /* Assets.xcassets */; };
 		6BCD461A2670E3F60050023F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6BCD46192670E3F60050023F /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		6B90DFD526832393009F90A0 /* home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = home.swift; sourceTree = "<group>"; };
+		6B3B8CAB268AFC9B00F5F2B3 /* home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = home.swift; sourceTree = "<group>"; };
+		6B7F4FB826883DF6002F6018 /* vegitablesPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vegitablesPage.swift; sourceTree = "<group>"; };
 		6BCB1B46268404780007467B /* FruitsPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitsPage.swift; sourceTree = "<group>"; };
 		6BCD460F2670E3F50050023F /* tabBar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tabBar.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		6BCD46122670E3F50050023F /* tabBarApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tabBarApp.swift; sourceTree = "<group>"; };
+		6BCD46122670E3F50050023F /* BuyFromFarmers1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuyFromFarmers1.swift; sourceTree = "<group>"; };
 		6BCD46142670E3F50050023F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6BCD46162670E3F60050023F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6BCD46192670E3F60050023F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -40,9 +42,10 @@
 		6B013D1B268231DC009C75F0 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				6BCD46122670E3F50050023F /* tabBarApp.swift */,
+				6BCD46122670E3F50050023F /* BuyFromFarmers1.swift */,
 				6BCD46142670E3F50050023F /* ContentView.swift */,
-				6B90DFD526832393009F90A0 /* home.swift */,
+				6B3B8CAB268AFC9B00F5F2B3 /* home.swift */,
+				6B7F4FB826883DF6002F6018 /* vegitablesPage.swift */,
 				6BCB1B46268404780007467B /* FruitsPage.swift */,
 			);
 			path = View;
@@ -168,10 +171,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6B90DFD626832393009F90A0 /* home.swift in Sources */,
 				6BCB1B47268404780007467B /* FruitsPage.swift in Sources */,
 				6BCD46152670E3F50050023F /* ContentView.swift in Sources */,
-				6BCD46132670E3F50050023F /* tabBarApp.swift in Sources */,
+				6BCD46132670E3F50050023F /* BuyFromFarmers1.swift in Sources */,
+				6B3B8CAC268AFC9B00F5F2B3 /* home.swift in Sources */,
+				6B7F4FB926883DF6002F6018 /* vegitablesPage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

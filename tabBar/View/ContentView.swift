@@ -33,14 +33,10 @@ struct ContentView: View {
            
             switch selectedIndex{
             case 0:
-               NavigationView{
+              
                home()
                 
-                        ScrollView{
-                            Text("")
-                                .navigationTitle("Home")
-                        }
-               }
+               
             case 1:
                 NavigationView{
                 
